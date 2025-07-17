@@ -49,10 +49,15 @@ Calculated as Actual Price × Review Count, this metric highlighted areas with t
 5. 📦 Price Band Distribution
 Majority of products fall within the ₹200–₹500 range.
 6. 📦 Analyzing the Relationship Between Discount Levels and Product Ratings
-Product ratings tend to increase with higher discounts. Amazon case study_Report_DSA.xlsx
+   
+7. Product ratings tend to increase with higher discounts. Amazon case study_Report_DSA.xlsx
+
 * Learning Outcome
+  
 .Gained experience with real-world Excel data analysis
+
 .Improved storytelling with dashboards
+
 .Learned to uncover actionable insights using data
 
 
