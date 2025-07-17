@@ -45,22 +45,19 @@ Source: Supplied by DSA for educational case study
 .Which categories offer the highest discounts?
 .What are the top 5 products by combined rating and number of reviews?
 
-**Original file
-Before Cleaning: image After Cleaning: image
-
 📈 Dashboard Overview
-
 An Excel dashboard was built to visually summarize the results using:
 Pivot Tables and Pivot Charts
 Price and Rating Binning
-Data-Driven KPIs (like top-rated products, review count filters, etc.)image
+Data-Driven KPIs (like top-rated products, review count filters, etc.)
+
 ✅ Conclusions
 
 1. 📉 Discount Insights
-2. 
-Average discount percentages vary significantly by category.
+   
+2. Average discount percentages vary significantly by category.
 
-A few categories (e.g., electronics or accessories) offer above-average discounts.
+3. A few categories (e.g., electronics or accessories) offer above-average discounts.
 
 4. 🧮 Product Distribution
    
@@ -68,7 +65,7 @@ A few categories (e.g., electronics or accessories) offer above-average discount
 
 .Less-populated categories may represent opportunity zones for new sellers.
 
-. ⭐ Rating Distribution
+5.⭐ Rating Distribution
 Most products are rated between 3.5 and 4.5, with very few below 3.0 — a sign of review inflation or product consistency.
 Products with the highest number of reviews often correlate with the highest ratings, highlighting customer trust and quality.
 
